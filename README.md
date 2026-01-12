@@ -1,6 +1,6 @@
-# Coffee Empire Idle Game
+# Josh's Coffee Shop Idle Game
 
-Coffee Empire is an engaging idle/incremental game built with Python and Tkinter. Start from humble beginnings and build your coffee empire from scratch!
+Josh's Coffee Shop is an engaging idle/incremental game built with Python and Tkinter. Start from humble beginnings and build your coffee empire from scratch!
 
 ## Features
 - **Interactive Coffee Brewing**: Click to brew coffee and earn money with satisfying visual feedback
