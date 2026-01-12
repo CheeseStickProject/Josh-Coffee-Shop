@@ -138,9 +138,13 @@ The SQLite database stores:
 - Achievement progress
 
 ## Credits
-- **Game Design & Development**: Built for educational and entertainment purposes
-- **Graphics**: Custom PNG assets for immersive coffee empire theme
-- **Architecture**: Modern Python practices with database integration
+This project was created and developed by:
+- **SethK9102**
+- **Dhinman278**
+- **CarsonV8824**
+- **sreno77**
+
+The music and images are from the people working on Cheese Stick
 
 ## License
-This project is available for educational and personal use. See repository for specific licensing terms.
+This project is available for educational and personal use.
